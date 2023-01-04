@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1553537062 source:c:\users\dawid\desktop\studia\sortowanie\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"przezScalanie.h"
+	"quicksort.h"
+	"przezKopcowanie.h"
+	"introspek.h"
+
+1552238960 source:c:\users\dawid\desktop\studia\sortowanie\projekt\lista.cpp
+
+1553185098 c:\users\dawid\desktop\studia\sortowanie\projekt\lista.h
+
+1552852443 c:\users\dawid\desktop\studia\sortowanie\projekt\przezscalanie.h
+	"lista.h"
+
+1553025165 c:\users\dawid\desktop\studia\sortowanie\projekt\quicksort.h
+	"lista.h"
+
+1553164829 c:\users\dawid\desktop\studia\sortowanie\projekt\przezkopcowanie.h
+
+1553025163 c:\users\dawid\desktop\studia\sortowanie\projekt\introspek.h
+	<cmath>
+	"lista.h"
+	"quicksort.h"
+
+1553613332 source:c:\users\dawid\desktop\studia\pamsi\sortowanie\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"przezScalanie.h"
+	"quicksort.h"
+	"przezKopcowanie.h"
+	"introspek.h"
+
+1553613886 c:\users\dawid\desktop\studia\pamsi\sortowanie\projekt\przezscalanie.h
+	"lista.h"
+
+1553546217 c:\users\dawid\desktop\studia\pamsi\sortowanie\projekt\lista.h
+
+1553546274 c:\users\dawid\desktop\studia\pamsi\sortowanie\projekt\quicksort.h
+	"lista.h"
+
+1553547461 c:\users\dawid\desktop\studia\pamsi\sortowanie\projekt\przezkopcowanie.h
+
+1553546930 c:\users\dawid\desktop\studia\pamsi\sortowanie\projekt\introspek.h
+	<cmath>
+	"lista.h"
+	"quicksort.h"
+	"przezKopcowanie.h"
+
